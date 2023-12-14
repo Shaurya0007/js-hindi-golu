@@ -1,0 +1,46 @@
+// ADD OBJEJCT IN FUNCTION 
+
+const WHATSAPP_USER = {
+    USERID : "54879",
+    PASSWORD : "12345ASDFG",
+    EMAIL : "ADS134SING@GMIL.COM"
+}
+
+function HANDLEWHATSAPP (IDNAME){
+
+    console.log(` WHATSNAME IS ${IDNAME.USERID} PASSWORD IS ${IDNAME.PASSWORD} AND THE EMIAL IS ${IDNAME.
+    EMAIL} `)
+
+} 
+HANDLEWHATSAPP (WHATSAPP_USER)
+
+
+ console.log(HANDLEWHATSAPP({
+    USERID : "HITESH",
+    PASSWORD : "354343",
+    EMAIL : " ZDJFKZ@MZLKNKDGMAIL.COM"
+    
+ }))
+
+
+// ADD  ARRAY IN FUNCTION 
+  
+ const YOURARRAY = [200,300,400,700,800]
+
+ function RETUREN_SECOND_NUMBER (GET_ARRAY){
+    return GET_ARRAY [4]
+ }
+//  console.log(RETUREN_SECOND_NUMBER(YOURARRAY))
+
+console.log(RETUREN_SECOND_NUMBER([200,5604876,3435,45796,3243,7972]))
+
+
+
+//REST_OPRATOR
+
+function rest_opretoer (...restnum1){
+    return restnum1
+} 
+console.log(rest_opretoer(3200,544,200,66,78,5448))
+
+
