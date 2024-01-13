@@ -1,7 +1,7 @@
 # Projects relateded to Dom (project 1)
 
 ## Project link 
-[click here](https://stackblitz.com/edit/web-platform-leufeb?file=chaiaurcode.js,index.html,styles.css) 
+[click here](https://stackblitz.com/) 
 
 
 ## javascript code (salution code)
